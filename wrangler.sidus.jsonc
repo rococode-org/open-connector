@@ -41,7 +41,7 @@
     {
       "binding": "DB",
       "database_name": "open-connector",
-      "database_id": "SET_AT_FIRST_DEPLOY",
+      "database_id": "f78aed4a-04b3-4e6d-8738-ad24f2696a7e",
       "migrations_dir": "migrations",
     },
   ],
